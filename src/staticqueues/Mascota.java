@@ -8,7 +8,6 @@ package staticqueues;
 /**
  *
  * @author ivan
- * ci 5310689
  */ 
  
 
