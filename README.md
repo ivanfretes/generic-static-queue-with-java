@@ -1,1 +1,1 @@
-ColaEstatica <TipoDeDato> cola = new ColaEstatica();
+ColaEstatica <"TipoDeDato"> cola = new ColaEstatica();
