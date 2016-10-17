@@ -1,1 +1,1 @@
-# Generic-Queue---Java-
+ColaEstatica <DATA> cola = new ColaEstatica();
